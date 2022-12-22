@@ -23,7 +23,7 @@ I am a web developer specializing in the MERN stack. I have completed my graduat
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
 - 📫 How to reach me [@shamilkotta](https://twitter.com/shamilkotta)
-- ⚡ Fun fact I can code more than I sleep continuously
+- ⚡ Fun fact I can code continuously more than I sleep
 
 <br>
 <h3>🤞What stats are saying</h3>
