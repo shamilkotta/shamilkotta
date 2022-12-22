@@ -3,6 +3,8 @@
 
 I am a web developer specializing in the MERN stack. I have completed my graduation in Bsc Physics in 2022, with maths and computer science as complementary courses.
 
+I have a strong understanding of web development techs like React, Node js, Express, and Mongo DB. Also experience with trending libraries like Next js, Tailwind CSS, Material UI... And I have a strong skill to learn new things quickly and effectively with the help of documentation and articles.
+
 - 🔭 I’m currently working on [edWorld](https://github.com/shamilkotta/edWorld) project
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
@@ -10,7 +12,6 @@ I am a web developer specializing in the MERN stack. I have completed my graduat
 - 📫 Reach me [@shamilkotta](https://twitter.com/shamilkotta)
 - ⚡ Fun fact I can code continuously more than I sleep
 
-<br>
 <a href="https://twitter.com/shamilkotta">
     <img title="Twitter" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="30" alt="twitter"/>
   </a>
