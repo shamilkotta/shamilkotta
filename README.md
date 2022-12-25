@@ -46,3 +46,7 @@ I have a strong understanding of web development techs like React, Node js, Expr
   </td>
  </tr>
 </table>
+
+<h3>Tags that I can relate</h3>
+
+`javascript` `typescript` `java` `nextjs` `html` `css` `bootstrap` `tailwind` `react` `redux` `materailui` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop`
