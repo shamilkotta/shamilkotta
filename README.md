@@ -23,7 +23,7 @@ I have a strong understanding of web development techs like React, Node js, Expr
   </a>
 
 <br>
-<h3>💹I'm good in</h3>
+<h3>✌️I'm good in</h3>
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
