@@ -13,13 +13,23 @@ I have a strong understanding of web development techs like React, Node js, Expr
 - ⚡ Fun fact I can code continuously more than I sleep
 
 <a href="https://twitter.com/shamilkotta">
-    <img title="Twitter" src="./images/twitter.png?raw=true" width="40" alt="twitter"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/twitter.png?raw=true">
+      <source media="(prefers-color-scheme: light)" srcset="./images/twitter-light.png?raw=true">
+    </picture>
   </a>
   <a href="https://www.linkedin.com/in/shamilkotta/">
-    <img src="./images/linkedin.png?raw=true" width="40" alt="linkedin"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.png?raw=true">
+      <source media="(prefers-color-scheme: light)" srcset="./images/linkedin-light.png?raw=true">
+    </picture>
+
   </a>
   <a href="mailto:shamilkotta7@gmail.com">
-    <img alt="mail" width="40" src="./images/mail.png?raw=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/mail.png?raw=true">
+      <source media="(prefers-color-scheme: light)" srcset="./images/mail-light.png?raw=true">
+    </picture>
   </a>
 
 <br>
