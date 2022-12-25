@@ -46,5 +46,3 @@ I have a strong understanding of web development techs like React, Node js, Expr
   </td>
  </tr>
 </table>
-
-[#html](#)
