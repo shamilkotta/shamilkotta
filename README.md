@@ -14,21 +14,21 @@ I have a strong understanding of web development techs like React, Node js, Expr
 
 <a href="https://twitter.com/shamilkotta">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/twitter.png?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="./images/twitter-light.png?raw=true">
+      <source  width="40 media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
+      <img  width="40 alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/shamilkotta/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.png?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="./images/linkedin-light.png?raw=true">
+      <source  width="40 media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478596-ca5d3735-84ff-41c1-adda-0636638484e9.png">
+      <img  width="40 alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
     </picture>
 
   </a>
   <a href="mailto:shamilkotta7@gmail.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/mail.png?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="./images/mail-light.png?raw=true">
+      <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
+      <img alt="twitter" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
     </picture>
   </a>
 
