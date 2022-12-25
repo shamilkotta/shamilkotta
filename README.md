@@ -14,14 +14,14 @@ I have a strong understanding of web development techs like React, Node js, Expr
 
 <a href="https://twitter.com/shamilkotta">
     <picture>
-      <source  width="40 media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
-      <img  width="40 alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
+      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
+      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/shamilkotta/">
     <picture>
-      <source  width="40 media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478596-ca5d3735-84ff-41c1-adda-0636638484e9.png">
-      <img  width="40 alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
+      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478596-ca5d3735-84ff-41c1-adda-0636638484e9.png">
+      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
     </picture>
 
   </a>
