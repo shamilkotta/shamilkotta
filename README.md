@@ -1,7 +1,7 @@
 
 <h1>Hi👋, I'm SHAMIL </h1>
 
-I am a web developer specializing in the MERN stack. I have completed my graduation in Bsc Physics in 2022, with maths and computer science as complementary courses.
+I am a MERN stack web developer. I have completed my graduation in Bsc Physics in 2022, with maths and computer science as complementary courses.
 
 I have a strong understanding of web development techs like React, Node js, Express, and Mongo DB. Also experience with trending libraries like Next js, Tailwind CSS, Material UI... And I have a strong skill to learn new things quickly and effectively with the help of documentation and articles.
 
