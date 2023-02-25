@@ -5,7 +5,7 @@ I am a MERN stack web developer. I have completed my graduation in Bsc Physics i
 
 I have a strong understanding of web development techs like React, Node js, Express, and Mongo DB. Also experience with trending libraries like Next js, Tailwind CSS, Material UI... And I have a strong skill to learn new things quickly and effectively with the help of documentation and articles.
 
-- 🔭 I’m currently working on [edWorld](https://github.com/shamilkotta/edWorld) project
+- 🔭 I’m currently working on [offpitch](https://github.com/users/shamilkotta/projects/4?pane=info) project
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
