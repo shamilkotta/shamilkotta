@@ -9,7 +9,7 @@ As a web developer, I possess a strong understanding of the latest technologies 
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
-- 📫 Reach me [@shamilkotta](https://twitter.com/shamilkotta)
+- 📫 Reach me [@shamilkotta](mailto:shamilkotta@outlook.com)
 - ⚡ Fun fact I can code continuously more than I sleep
 
 <a href="https://twitter.com/shamilkotta">
