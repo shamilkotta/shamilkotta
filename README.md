@@ -1,8 +1,6 @@
 <h1>Hi👋, I'm SHAMIL </h1>
 
-I am a MERN stack web developer. Completed my graduation in Bsc Physics in 2022
-
-As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
+Software Developer with 1.5+ years of experience building dynamic and scalable web and mobile applications. Proficient in React, Next.js, TypeScript, Node.js, and database systems (SQL/NoSQL). Skilled in creating cross-platform mobile apps using React Native and Flutter.
 
 <!-- - 🔭 I’m currently working on [offpitch](https://github.com/users/shamilkotta/projects/4?pane=info) project
 - 🌱 I’m currently learning Nextjs and Typescript
