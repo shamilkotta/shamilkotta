@@ -1,18 +1,17 @@
-
 <h1>Hi👋, I'm SHAMIL </h1>
 
 I am a MERN stack web developer. Completed my graduation in Bsc Physics in 2022
 
 As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
 
-- 🔭 I’m currently working on [offpitch](https://github.com/users/shamilkotta/projects/4?pane=info) project
+<!-- - 🔭 I’m currently working on [offpitch](https://github.com/users/shamilkotta/projects/4?pane=info) project
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
-- 💬 Ask me about anything😂
-- 📫 Reach me [@shamilkotta](mailto:shamilkotta@outlook.com)
-- ⚡ Fun fact I can code continuously more than I sleep
+- 💬 Ask me about anything -->
+<!-- - 📫 Reach me [@shamilkotta](mailto:shamilkotta7@gmail.com) -->
+<!-- - ⚡ Fun fact I can code continuously more than I sleep -->
 
-<a href="https://twitter.com/shamilkotta">
+<a href="https://bsky.app/profile/shamilkotta.bsky.social">
     <picture>
       <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
       <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
@@ -35,8 +34,8 @@ As a web developer, I possess a strong understanding of the latest technologies 
 <br>
 <h3>✌️I'm good in</h3>
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nextjs](https://img.shields.io/badge/Next_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![flutter](https://img.shields.io/badge/Flutter-%23FFF.svg?style=for-the-badge&logo=flutter&logoColor=085c9e)
+![nodejs](https://img.shields.io/badge/Node.js-204d21?style=for-the-badge&logo=nodedotjs&logoColor=white) ![nosql](https://img.shields.io/badge/NOsql-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![sql](https://img.shields.io/badge/sql-042f51?style=for-the-badge&logo=postgresql&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h3>🤞What stats are saying</h3>
 <table>
@@ -59,4 +58,4 @@ As a web developer, I possess a strong understanding of the latest technologies 
 
 <h3>🔗Tags that I can relate</h3>
 
-`javascript` `typescript` `java` `nextjs` `html` `css` `bootstrap` `tailwind` `react` `redux` `materailui` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop`
+`javascript` `typescript` `flutter` `react` `nextjs` `tailwind` `redux` `materailui` `nodejs` `express` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx`
