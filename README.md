@@ -9,10 +9,10 @@ Software Developer with 1.5+ years of experience building dynamic and scalable w
 <!-- - 📫 Reach me [@shamilkotta](mailto:shamilkotta7@gmail.com) -->
 <!-- - ⚡ Fun fact I can code continuously more than I sleep -->
 
-<a href="https://bsky.app/profile/shamilkotta.bsky.social">
+<a href="https://twitter.com/shamilkotta">
     <picture>
       <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3b2608bb-daaf-480c-bb32-04690b792e6d">
-      <img  width="40" alt="twitter" src="https://github.com/user-attachments/assets/ad96a641-3a3d-4f36-bc5e-2a7e353cb611">
+      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/shamilkotta/">
