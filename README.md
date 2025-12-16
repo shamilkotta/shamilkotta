@@ -42,7 +42,7 @@ Software Developer with 1.5+ years of experience building dynamic and scalable w
 <tr>
   <td>
     <p align='center'>
-      <img alt="Shamil's streak" src='https://github-readme-streak-stats-shamilkottas-projects.vercel.app/?user=shamilkotta&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
+      <img alt="Shamil's streak" src='https://github-readme-streak-stats-drab-six.vercel.app/?user=shamilkotta&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
     </p>
     <p align='center'>
       <img alt="Shamil's status" src='https://shamilkotta-github-stats.vercel.app/api?username=shamilkotta&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide_title=true'>
