@@ -32,15 +32,17 @@ Software Developer with 1.5+ years of experience building dynamic and scalable w
 <br>
 <h3>✌️I'm good in</h3>
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nextjs](https://img.shields.io/badge/Next_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![flutter](https://img.shields.io/badge/Flutter-%23FFF.svg?style=for-the-badge&logo=flutter&logoColor=085c9e)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nextjs](https://img.shields.io/badge/Next_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node.js-204d21?style=for-the-badge&logo=nodedotjs&logoColor=white) ![nosql](https://img.shields.io/badge/NOsql-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![sql](https://img.shields.io/badge/sql-042f51?style=for-the-badge&logo=postgresql&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!--  ![flutter](https://img.shields.io/badge/Flutter-%23FFF.svg?style=for-the-badge&logo=flutter&logoColor=085c9e) -->
 
 <h3>🤞What stats are saying</h3>
 <table>
 <tr>
   <td>
     <p align='center'>
-      <img alt="Shamil's streak" src='https://github-readme-streak-stats.herokuapp.com/?user=shamilkotta&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
+      <img alt="Shamil's streak" src='https://github-readme-streak-stats-shamilkottas-projects.vercel.app/?user=shamilkotta&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
     </p>
     <p align='center'>
       <img alt="Shamil's status" src='https://shamilkotta-github-stats.vercel.app/api?username=shamilkotta&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide_title=true'>
