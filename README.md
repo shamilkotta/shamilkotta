@@ -6,7 +6,7 @@ Software Developer with 1.5+ years of experience building dynamic and scalable w
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything -->
-➜ Cherry pick : [shamilkotta.github.io](shamilkotta.github.io)
+➜ Cherry pick : [shamilkotta.github.io](https://shamilkotta.github.io)
 <!-- - 📫 Reach me [@shamilkotta](mailto:shamilkotta7@gmail.com) -->
 <!-- - ⚡ Fun fact I can code continuously more than I sleep -->
 
