@@ -1,12 +1,11 @@
 <h1>Hi👋, I'm SHAMIL </h1>
 
-Software Developer with 1.5+ years of experience building dynamic and scalable web and mobile applications. Proficient in React, Next.js, TypeScript, Node.js, and database systems (SQL/NoSQL). Skilled in creating cross-platform mobile apps using React Native and Flutter.
+Building the tools I wish existed. Passionate about  developer experience. Here for the joy of building, learning, experimenting, and sharing through open source.
 
 <!-- - 🔭 I’m currently working on [offpitch](https://github.com/users/shamilkotta/projects/4?pane=info) project
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything -->
-➜ Cherry pick : [shamilkotta.github.io](https://shamilkotta.github.io)
 <!-- - 📫 Reach me [@shamilkotta](mailto:shamilkotta7@gmail.com) -->
 <!-- - ⚡ Fun fact I can code continuously more than I sleep -->
 
@@ -31,14 +30,23 @@ Software Developer with 1.5+ years of experience building dynamic and scalable w
   </a>
 
 <br>
-<h3>✌️I'm good in</h3>
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nextjs](https://img.shields.io/badge/Next_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nodejs](https://img.shields.io/badge/Node.js-204d21?style=for-the-badge&logo=nodedotjs&logoColor=white) ![nosql](https://img.shields.io/badge/NOsql-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![sql](https://img.shields.io/badge/sql-042f51?style=for-the-badge&logo=postgresql&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<h3>✌️Recent Acitivities</h3>
+
+ - [nlite](https://github.com/shamilkotta/nlite) ➜ A attempt to create a lite react 19 framework
+ - [dotlet](https://github.com/shamilkotta/dotlet) ➜ Make your environment portable
+ - [npmx](https://github.com/npmx-dev/npmx.dev) ➜ a fast, modern browser for the npm registry
+ - Few more ➜ [shamilkotta.github.io](https://shamilkotta.github.io)
+
+
+<!-- <h3>✌️I'm good in</h3> -->
+
+<!--  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nextjs](https://img.shields.io/badge/Next_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nodejs](https://img.shields.io/badge/Node.js-204d21?style=for-the-badge&logo=nodedotjs&logoColor=white) ![nosql](https://img.shields.io/badge/NOsql-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![sql](https://img.shields.io/badge/sql-042f51?style=for-the-badge&logo=postgresql&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 <!--  ![flutter](https://img.shields.io/badge/Flutter-%23FFF.svg?style=for-the-badge&logo=flutter&logoColor=085c9e) -->
 
-<h3>🤞What stats are saying</h3>
+<!-- <h3>🤞What stats are saying</h3>
 <table>
 <tr>
   <td>
@@ -55,8 +63,8 @@ Software Developer with 1.5+ years of experience building dynamic and scalable w
     </p>
   </td>
  </tr>
-</table>
+</table> -->
 
-<h3>🔗Tags that I can relate</h3>
+<h3>🔗 Tags that I can relate</h3>
 
-`javascript` `typescript` `flutter` `react` `nextjs` `tailwind` `redux` `materailui` `nodejs` `express` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx`
+`typescript` `effect` `react` `nextjs` `nodejs` `react native` `vite` `esbuild` `rolldown` `tailwind` `zod` `shadcn` `workerd` `express` `hono` `h3` `webpack` `github actions` `pnpm` `oxc` `postgresql` `mongodb` `aws` `cloudflare` `vercel` `nginx`
