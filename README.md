@@ -1,6 +1,6 @@
 <h1>Hi👋, I'm SHAMIL </h1>
 
-Building the tools I wish existed. Passionate about  developer experience. Here for the joy of building, learning, experimenting, and sharing through open source.
+Building the tools I wish existed. Passionate about developer experience. Here for the joy of building, learning, experimenting, and sharing through open source.
 
 <!-- - 🔭 I’m currently working on [offpitch](https://github.com/users/shamilkotta/projects/4?pane=info) project
 - 🌱 I’m currently learning Nextjs and Typescript
@@ -9,23 +9,23 @@ Building the tools I wish existed. Passionate about  developer experience. Here 
 <!-- - 📫 Reach me [@shamilkotta](mailto:shamilkotta7@gmail.com) -->
 <!-- - ⚡ Fun fact I can code continuously more than I sleep -->
 
-<a href="https://twitter.com/shamilkotta">
+<a href="https://x.com/shamilkotta">
     <picture>
-      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
-      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
+      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d5f81c11-ac1d-4d5c-9981-a8cb36dff08d">
+      <img  width="40" alt="x.com/shamilkotta" src="https://github.com/user-attachments/assets/9a8a7114-1f9c-4904-a58f-212a8ae49c98">
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/shamilkotta/">
     <picture>
       <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478596-ca5d3735-84ff-41c1-adda-0636638484e9.png">
-      <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
+      <img  width="40" alt="linkedin.com/shamilkotta" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
     </picture>
 
   </a>
   <a href="mailto:shamilkotta7@gmail.com">
     <picture>
       <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
-      <img alt="twitter" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
+      <img alt="mail" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
     </picture>
   </a>
 
@@ -33,11 +33,10 @@ Building the tools I wish existed. Passionate about  developer experience. Here 
 
 <h3>✌️Recent Acitivities</h3>
 
- - [nlite](https://github.com/shamilkotta/nlite) ➜ A attempt to create a lite react 19 framework
- - [dotlet](https://github.com/shamilkotta/dotlet) ➜ Make your environment portable
- - [npmx](https://github.com/npmx-dev/npmx.dev) ➜ a fast, modern browser for the npm registry
- - Few more ➜ [shamilkotta.github.io](https://shamilkotta.github.io)
-
+- [nlite](https://github.com/shamilkotta/nlite) ➜ A attempt to create a lite react 19 framework
+- [dotlet](https://github.com/shamilkotta/dotlet) ➜ Make your environment portable
+- [npmx](https://github.com/npmx-dev/npmx.dev) ➜ a fast, modern browser for the npm registry
+- Few more ➜ [shamilkotta.github.io](https://shamilkotta.github.io)
 
 <!-- <h3>✌️I'm good in</h3> -->
 
