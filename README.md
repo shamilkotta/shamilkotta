@@ -6,7 +6,7 @@ Building the tools I wish existed. Passionate about developer experience. Here f
 - 🌱 I’m currently learning Nextjs and Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything -->
-<!-- - 📫 Reach me [@shamilkotta](mailto:shamilkotta7@gmail.com) -->
+<!-- - 📫 Reach me [@shamilkotta](mailto:hello@shamilkotta.com) -->
 <!-- - ⚡ Fun fact I can code continuously more than I sleep -->
 
 <a href="https://x.com/shamilkotta">
@@ -22,7 +22,7 @@ Building the tools I wish existed. Passionate about developer experience. Here f
     </picture>
 
   </a>
-  <a href="mailto:shamilkotta7@gmail.com">
+  <a href="mailto:hello@shamilkotta.com">
     <picture>
       <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
       <img alt="mail" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
