@@ -15,10 +15,10 @@ Building the tools I wish existed. Passionate about developer experience. Here f
       <img  width="40" alt="x.com/shamilkotta" src="https://github.com/user-attachments/assets/9a8a7114-1f9c-4904-a58f-212a8ae49c98">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/shamilkotta/">
+  <a href="https://shamilkotta.com">
     <picture>
-      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478596-ca5d3735-84ff-41c1-adda-0636638484e9.png">
-      <img  width="40" alt="linkedin.com/shamilkotta" src="https://user-images.githubusercontent.com/64640025/209478603-cdf603dc-7583-452e-b658-576b5e0ca504.png">
+      <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9af7f4c8-86eb-4298-b0ea-ce889c19ef6d">
+      <img  width="40" alt="shamilkotta.com" src="https://github.com/user-attachments/assets/bc32e32a-6334-4e8d-ad6b-979bff6cd72d">
     </picture>
 
   </a>
